@@ -1,0 +1,42 @@
+[
+    {
+        "id": "id1",
+        "name": "Product name 1",
+        "price": 413,
+        "brand": "Brand name 1",
+        "description": "In est dolor molestiae ut necessitatibus in veniam. Sunt id dicta consequatur. Suscipit molestiae at magnam aliquid sed.",
+        "isNew": true
+    },
+    {
+        "id": "id2",
+        "name": "Product name 2",
+        "price": 1070,
+        "brand": "Brand name 2",
+        "description": "Enim possimus velit labore. Vero blanditiis molestiae autem ut rerum. Vitae voluptate facere sapiente quisquam. Explicabo atque aliquid laboriosam odit sint quis et.",
+        "isNew": false
+    },
+    {
+        "id": "id3",
+        "name": "Product name 3",
+        "price": 1267,
+        "brand": "Brand name 1",
+        "description": "Corrupti exercitationem sit temporibus officiis quo voluptas hic. Voluptas impedit autem architecto dignissimos. Et consequatur a dolorem distinctio quae.",
+        "isNew": true
+    },
+    {
+        "id": "id4",
+        "name": "Product name 4",
+        "price": 163,
+        "brand": "Brand name 3",
+        "description": "Atque quis maiores et et quam. Qui impedit repellendus ut. Blanditiis accusantium qui quasi est id quod dicta. Recusandae eaque autem ut non.",
+        "isNew": false
+    },
+    {
+        "id": "id5",
+        "name": "Product name 5",
+        "price": 1049,
+        "brand": "Brand name 1",
+        "description": "Dolorem iure deleniti aut enim nam sed. Consectetur quos iusto ad earum. Expedita qui perspiciatis ipsa quidem. Non aspernatur alias perferendis voluptas officiis natus.",
+        "isNew": false
+    }
+]
